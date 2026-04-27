@@ -269,3 +269,46 @@ To add a new task family:
 - Confirm dataset JSON paths are valid.
 - Check that image filenames in annotations match actual files.
 - Remove debug `break` for full-dataset traversal.
+
+
+  ## Citation
+
+  If you use this benchmark or dataset in your research, please cite our work as follows:
+  ```
+   @misc{sinha2026mindseyebenchmarkvisual,
+         title={Mind's Eye: A Benchmark of Visual Abstraction, Transformation and Composition for Multimodal LLMs}, 
+         author={Rohit Sinha and Aditya Kanade and Sai Srinivas Kancheti and Vineeth N Balasubramanian and Tanuja Ganu},
+         year={2026},
+         eprint={2604.16054},
+         archivePrefix={arXiv},
+         primaryClass={cs.CV},
+         url={https://arxiv.org/abs/2604.16054}, 
+   }
+  ```
+
+  ## Contributing
+
+  This project welcomes contributions and suggestions.  Most contributions require you to agree to a
+  Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
+  the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+
+  When you submit a pull request, a CLA bot will automatically determine whether you need to provide
+  a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
+  provided by the bot. You will only need to do this once across all repos using our CLA.
+
+  This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
+  For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
+  contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+  ## Trademarks
+
+  This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
+  trademarks or logos is subject to and must follow 
+  [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
+  Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
+  Any use of third-party trademarks or logos are subject to those third-party's policies.
+
+  ## License 📜
+
+  The **code** in this repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+  The **dataset** is licensed under the [Community Data License Agreement - Permissive - Version 2.0 (CDLA-Permissive-2.0)](https://cdla.dev/permissive-2-0/).
