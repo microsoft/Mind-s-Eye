@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+Pillow
+tqdm
+torch
+torchvision
+transformers
+qwen-vl-utils
+deepeval
+ollama
+bongard

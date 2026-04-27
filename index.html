@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mind's Eye - A Benchmark of Visual Abstraction, Transformation and Composition for Multimodal LLMs</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+      :root {
+        --primary-color: #6A0DAD; /* A slightly deeper purple for better contrast */
+        --secondary-color: #C34A47; /* A clear, strong red/coral */
+        --highlight-color: #0275D8; /* A vibrant blue for highlights */
+        --background-color: #F8F9FA; /* Soft, off-white background */
+        --card-background: #FFFFFF; /* Pure white for cards */
+        --text-color: #212529; /* Dark gray for main text */
+        --secondary-text: #6C757D; /* Lighter gray for secondary info */
+        --border-color: #DEE2E6; /* Light gray for borders */
+      }
+
+      body {
+        font-family: 'Poppins', sans-serif;
+        background-color: var(--background-color);
+        color: var(--text-color);
+        line-height: 1.6;
+        margin: 0;
+        padding: 0;
+      }
+
+      header {
+        text-align: center;
+        padding: 40px 20px;
+        background-color: var(--card-background);
+        border-bottom: 3px solid var(--primary-color);
+      }
+
+      h1, h2, h3 {
+        font-family: 'Space Grotesk', sans-serif;
+        letter-spacing: 0.5px;
+      }
+
+      header h1 {
+        color: var(--text-color);
+        font-size: 3em;
+        margin-bottom: 15px;
+        text-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        font-weight: 700;
+      }
+
+      header p.authors {
+        color: var(--primary-color);
+        font-size: 1.2em;
+        margin-top: 10px;
+        font-weight: 300;
+      }
+
+      .buttons {
+        text-align: center;
+        margin: 30px 0;
+      }
+
+      .btn {
+        text-decoration: none;
+        background-color: var(--card-background);
+        color: var(--primary-color);
+        padding: 12px 24px;
+        border-radius: 8px;
+        margin: 0 10px;
+        font-weight: 500;
+        transition: all 0.3s;
+        display: inline-block;
+        border: 1px solid var(--primary-color);
+        position: relative;
+        overflow: hidden;
+        z-index: 1;
+      }
+
+      .btn:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 0%;
+        height: 100%;
+        background-color: var(--primary-color);
+        transition: all 0.3s;
+        z-index: -1;
+      }
+
+      .btn:hover:before {
+        width: 100%;
+      }
+
+      .btn:hover {
+        color: #FFFFFF;
+        box-shadow: 0 4px 15px rgba(106, 13, 173, 0.25);
+        transform: translateY(-2px);
+      }
+
+      section {
+        max-width: 900px;
+        margin: 40px auto;
+        padding: 30px;
+        background-color: var(--card-background);
+        border-radius: 10px;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.07);
+        border-left: 3px solid var(--primary-color);
+      }
+
+      section h2 {
+        font-size: 2em;
+        margin-bottom: 20px;
+        color: var(--highlight-color);
+        border-bottom: 1px solid var(--border-color);
+        padding-bottom: 10px;
+      }
+
+      p, li {
+        font-size: 1.1em;
+        margin-bottom: 1em;
+        line-height: 1.7;
+      }
+
+      strong {
+        font-weight: 600;
+        color: var(--secondary-color);
+      }
+
+      .collapsible {
+        background-color: var(--card-background);
+        color: var(--text-color);
+        cursor: pointer;
+        padding: 18px;
+        width: 100%;
+        border: 1px solid var(--border-color);
+        text-align: left;
+        outline: none;
+        font-size: 1.2em;
+        border-radius: 8px;
+        margin-bottom: 10px;
+        font-family: 'Space Grotesk', sans-serif;
+        transition: all 0.3s;
+        position: relative;
+      }
+
+      .collapsible:after {
+        content: '+';
+        font-size: 1.2em;
+        color: var(--primary-color);
+        float: right;
+      }
+
+      .collapsible.active:after {
+        content: '-';
+      }
+
+      .collapsible:hover {
+        background-color: #F1F3F5;
+        border-color: var(--primary-color);
+      }
+
+      .citation-box {
+        background-color: #F1F3F5;
+        border: 1px solid var(--border-color);
+        border-left: 3px solid var(--secondary-color);
+        padding: 20px;
+        border-radius: 8px;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 0.95em;
+        line-height: 1.5;
+        color: #343a40;
+      }
+
+      .content {
+        padding: 0 18px;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.4s ease-out;
+        background-color: #F8F9FA;
+        border-radius: 0 0 8px 8px;
+        margin-bottom: 20px;
+        margin-top: -10px;
+      }
+
+      /* --- Image Slider --- */
+      .slider {
+        width: 100%;
+        max-width: 800px;
+        height: 400px;
+        margin: 20px auto;
+        overflow: hidden;
+        position: relative;
+        border-radius: 10px;
+      }
+
+      .slides {
+        display: flex;
+        width: 300%;
+        height: 100%;
+        transition: transform 1s ease;
+        animation: slideshow 15s infinite;
+      }
+
+      .slides img {
+        width: 33.333%;
+        height: 100%;
+        object-fit: contain;
+        background-color: transparent;
+      }
+
+      @keyframes slideshow {
+        0%, 25% {
+          transform: translateX(0);
+        }
+        33%, 58% {
+          transform: translateX(-33.333%);
+        }
+        66%, 91% {
+          transform: translateX(-66.666%);
+        }
+        100% {
+          transform: translateX(0);
+        }
+      }
+
+      footer {
+        text-align: center;
+        margin: 50px 0 0 0;
+        padding: 30px;
+        color: var(--secondary-text);
+        font-size: 0.9em;
+        background-color: var(--card-background);
+        border-top: 1px solid var(--border-color);
+      }
+      
+      .results-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        gap: 20px;
+        margin-top: 20px;
+      }
+      
+      .result-card {
+        background-color: #F1F3F5;
+        border-radius: 8px;
+        padding: 20px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+        border-top: 2px solid var(--primary-color);
+        transition: transform 0.3s;
+      }
+      
+      .result-card:hover {
+        transform: translateY(-5px);
+      }
+      
+      .result-card h3 {
+        color: var(--highlight-color);
+        margin-top: 0;
+        font-weight: 600;
+      }
+      
+      .highlight {
+        background-color: rgba(217, 83, 79, 0.15);
+        padding: 2px 5px;
+        border-radius: 3px;
+        font-weight: 600;
+        color: var(--secondary-color);
+      }
+
+      /* Citation styling */
+      .citation {
+        font-size: 0.9em;
+        color: var(--secondary-text);
+        font-style: italic;
+        margin-top: 5px;
+      }
+
+      /* Image captions */
+      .image-caption {
+        text-align: center;
+        color: var(--secondary-text);
+        font-size: 0.9em;
+        margin-top: 10px;
+      }
+
+      /* Number highlight */
+      .number {
+        font-family: 'Space Grotesk', sans-serif;
+        font-weight: 700;
+        color: var(--highlight-color);
+      }
+      
+      footer a {
+        color: var(--highlight-color);
+        text-decoration: none;
+      }
+
+      footer a:hover {
+        text-decoration: underline;
+      }
+  </style>
+</head>
+
+
+<body>
+
+<header>
+    <h1>Mind's Eye</h1>
+    <p>A Benchmark of Visual Abstraction, Transformation and Composition for Multimodal LLMs</p>
+    <p class="authors">Rohit Sinha, Aditya Kanade, Sai Srinivas Kancheti, Vineeth N Balasubramanian, Tanuja Ganu</p>
+    <p>Microsoft Research &amp; IIT Hyderabad</p>
+  </header>
+
+    <div class="slider">
+    <div class="slides">
+   <img src="figures/Dataset_figure.png" alt="Overview of the eight tasks in Mind's Eye">
+  <img src="figures/Difficulty_main_paper.png" alt="Human-model performance gap across difficulty">
+  <img src="figures/spider_chart_model_performance.png" alt="Model Performance Comparison">
+  </div>
+  </div>
+
+  <div class="buttons">
+    <a class="btn" href="#" target="_blank">📄 Paper</a>
+    <a class="btn" href="#" target="_blank">🖋 arXiv</a>
+    <a class="btn" href="#" target="_blank">💻 Code</a>
+  </div>
+
+  <section>
+    <h2>Overview</h2>
+    <p>Multimodal large language models (MLLMs) have achieved impressive progress on vision language benchmarks, yet their capacity for visual cognitive and visuospatial reasoning remains less understood. We introduce <strong>Mind's Eye</strong>, a multiple-choice benchmark of eight visuo-cognitive tasks inspired by classic human intelligence tests and organized under a novel <strong>A–R–T</strong> taxonomy: <em>Abstraction</em>, <em>Relation</em>, and <em>Transformation</em>.</p>
+    <p>The tasks probe core processes of fluid intelligence such as pattern induction, analogical relation mapping, and mental transformation. We evaluate a diverse suite of closed-source and open-source MLLMs and compare their performance with human participants. Humans achieve <span class="number">80%</span> accuracy, while top performing MLLMs remain <span class="highlight">below 50%</span>. Our findings suggest that current MLLMs exhibit limited visuospatial reasoning capabilities, highlighting the need for more cognitively grounded evaluation frameworks.</p>
+  </section>
+
+  <section>
+    <h2>Key Insights</h2>
+
+    <button class="collapsible">1. The ART Taxonomy: Abstraction, Relation, Transformation</button>
+    <div class="content">
+      <p>Mind's Eye organizes visuocognitive reasoning along three complementary dimensions, drawing on Carroll's Three-Stratum Theory of fluid intelligence:</p>
+      <ul>
+        <li><strong>Abstraction</strong> requires inducing latent structure from surface variation—identifying underlying rules, patterns, or categories that unify disparate visual instances.</li>
+        <li><strong>Relation</strong> requires mapping correspondences across visual structures—detecting how elements in one configuration align with elements in another, supporting analogical transfer.</li>
+        <li><strong>Transformation</strong> requires mentally simulating spatial operations—internally rotating, folding, composing, or otherwise manipulating visual representations to predict outcomes.</li>
+      </ul>
+      <p class="citation">This framework makes explicit the component processes of visuospatial intelligence, enabling targeted diagnosis of where models succeed or fail.</p>
+    </div>
+
+    <button class="collapsible">2. The Mind's Eye Benchmark</button>
+    <div class="content">
+      <p><strong>Mind's Eye</strong> comprises eight parametrically controlled tasks distributed across the ART dimensions, each operationalized as a multiple-choice problem with diagnostic distractors:</p>
+      <ul>
+        <li><strong>Visual Relation Abstraction (VRA):</strong> Inducing latent rules from visual exemplars.</li>
+        <li><strong>Hierarchical Pattern Equivalence (HPE):</strong> Detecting recursive structure across configurations.</li>
+        <li><strong>Dynamic Structural Correspondence (DSC):</strong> Tracking unidirectional changes across sequences.</li>
+        <li><strong>Visual Conceptual Slippage (VCS):</strong> Detecting violations of relational invariants.</li>
+        <li><strong>Symmetric Structures (SS):</strong> Mapping structural correspondences and detecting symmetries.</li>
+        <li><strong>Mental Transformation (MT):</strong> Mentally rotating 3D objects, adapted from classic cognitive tests.</li>
+        <li><strong>Paper Folding (PF):</strong> Predicting outcomes of folding and unfolding operations.</li>
+        <li><strong>Mental Composition (MC):</strong> Mentally folding nets into 3D shapes.</li>
+      </ul>
+      <p>All stimuli are programmatically generated as scalable vector graphics, ensuring perceptual uniformity and enabling fine-grained control over task difficulty. The evaluation set comprises <span class="number">800</span> items (100 per task), with an extended set of <span class="number">20,000</span> items available for training.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Results: A Stark Human–Model Gap</h2>
+    
+    <button class="collapsible">Overall Performance: MLLM vs. Human</button>
+    <div class="content">
+      <p>Our evaluation of 18 MLLMs reveals significant underperformance relative to humans in visuospatial reasoning:</p>
+      <ul>
+        <li>Non-expert humans achieve an average accuracy of <span class="number">80%</span> across all tasks.</li>
+        <li>The best-performing MLLMs remain <span class="number">below 50%</span>, with most open-source models near 30%.</li>
+        <li>No single model consistently excels across all cognitive dimensions, indicating scattered and unreliable capabilities.</li>
+      </ul>
+      <div class="results-grid">
+        <div class="result-card">
+          <h3>Abstraction</h3>
+          <p>Models struggle with tasks requiring pattern induction and generalization. Gemini-2.5 achieves the best VRA score at <span class="highlight">29.0%</span>, far below human performance of 68%.</p>
+        </div>
+        <div class="result-card">
+          <h3>Relation</h3>
+          <p>Relation tasks test analogical mapping. VCS proves particularly challenging, with the best model (Gemini-2.5) reaching only <span class="highlight">35.3%</span> vs. human 87%.</p>
+        </div>
+        <div class="result-card">
+          <h3>Transformation</h3>
+          <p>Mental Composition shows the strongest model performance, with Gemini-2.5 at <span class="highlight">51.8%</span>, yet Mental Transformation and Paper Folding remain well below human accuracy of ~80%.</p>
+        </div>
+      </div>
+    </div>
+    
+    <button class="collapsible">Difficulty-Invariant Failures</button>
+    <div class="content">
+      <p>A striking finding is that MLLM performance remains flat across difficulty levels, while human accuracy degrades predictably:</p>
+      <ul>
+        <li>Human accuracy drops from <span class="number">&gt;80%</span> on Easy items to <span class="number">~25%</span> on Hard items, reflecting genuine cognitive challenge.</li>
+        <li>Both open and closed-source models exhibit flat performance curves (<span class="number">20–45%</span>) regardless of difficulty.</li>
+        <li>This difficulty-invariant failure suggests MLLMs lack foundational visuo-cognitive operations rather than merely struggling with complexity.</li>
+      </ul>
+      <p class="citation">Humans fail because the task is hard; models fail because they cannot perform the underlying operation at any difficulty level.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Analysis: Why Do MLLMs Fail?</h2>
+    <p>Our diagnostic analyses reveal several fundamental limitations in current MLLM architectures that explain the persistent human–model gap.</p>
+
+    <button class="collapsible">Attention Alignment: Looking vs. Reasoning</button>
+    <div class="content">
+      <p>We analyzed whether option-directed attention predicts reasoning success. Key findings:</p>
+      <ul>
+        <li>Option-Specific Attention Score correlates positively with accuracy (point-biserial <em>r</em> = 0.34, <em>p</em> &lt; 0.001).</li>
+        <li>Yet even in the highest-attention quartile, accuracy remains well below human performance (&gt;80%).</li>
+        <li>On correct predictions, attention to the correct option exceeds attention to distractors (<span class="highlight">0.24 vs. 0.16</span>). On incorrect predictions, no such preference exists.</li>
+      </ul>
+      <p class="citation">Models can identify <em>where</em> to look but not <em>how</em> to reason over what they see—attention alignment is necessary but not sufficient.</p>
+    </div>
+
+    <button class="collapsible">Prompting Effects: Dimension-Dependent</button>
+    <div class="content">
+      <p>Prompting strategies (CoT, Meta-task, Step-by-step, Hints) yield dimension-dependent rather than uniformly beneficial effects:</p>
+      <ul>
+        <li><strong>Abstraction tasks</strong> benefit from structured guidance, with Meta-task and Step-by-step prompting yielding gains of approximately <span class="highlight">+1.3 pts</span>.</li>
+        <li><strong>Transformation tasks</strong> exhibit consistent performance degradation across all alternative prompting strategies, with Hint prompting showing the largest drop (~<span class="highlight">−0.9 pts</span>).</li>
+        <li><strong>Relation tasks</strong> show intermediate behavior, with modest improvements under Meta-task prompting.</li>
+      </ul>
+      <p class="citation">Scaffolding facilitates rule derivation yet fails to elicit procedural visuocognitive operations required for transformation reasoning.</p>
+    </div>
+
+    <button class="collapsible">Scaling and Surface Dependence</button>
+    <div class="content">
+      <p>Analysis of model behavior across scales and task types reveals:</p>
+      <ul>
+        <li>Performance generally increases with model size, reinforcing the role of parameter scale.</li>
+        <li>However, models show <strong>strong dependence on surface perception</strong>: in Mental Composition, models succeed when unfolded nets visually resemble a cube but fail when correct inference requires mental folding.</li>
+        <li>Models struggle to <em>cognitively group figures and concepts</em> into coherent representations, frequently selecting implausible answers.</li>
+      </ul>
+      <p class="citation">Scaling tends to improve surface-matching tasks more than those requiring internal simulation.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Conclusion</h2>
+    <p>Mind's Eye reveals a persistent human–model gap on visuo-cognitive tasks: non-expert humans achieve <span class="number">80%</span> mean accuracy, whereas top MLLMs stay below <span class="number">50%</span>. Key takeaways include: (i) MLLMs rely heavily on perceptual cues with limited coupling between textual reasoning and visual evidence; (ii) prompting strategies yield modest improvements but do not introduce new visuo-cognitive capabilities; (iii) scaling improves surface-matching tasks more than those requiring internal simulation.</p>
+    <p>Our ART-aligned, parametric design exposes where failures occur, providing directions for modeling advances in grounded attention, spatial working memory, and transformation-aware representations. Future directions include open-ended answer choices, 3D perception tasks, and human studies across varying expertise levels.</p>
+  </section>
+
+   <section>
+    <h2>Citation</h2>
+    <p>If you find our work useful, please consider citing our paper:</p>
+    <pre class="citation-box"><code>@article{sinha2025mindseye,
+      title={Mind's Eye: A Benchmark of Visual Abstraction, Transformation and Composition for Multimodal LLMs},
+      author={Sinha, Rohit and Kanade, Aditya and Kancheti, Sai Srinivas and Balasubramanian, Vineeth N and Ganu, Tanuja},
+      year={2025}
+}</code></pre>
+  </section>
+
+
+  <footer>
+    <div>
+        <a href="https://support.microsoft.com/contactus">Contact Us</a> | 
+        <a href="https://go.microsoft.com/fwlink/?LinkId=521839">Privacy &amp; Cookies</a> | 
+        <a href="https://go.microsoft.com/fwlink/?LinkId=521839">Consumer Health Privacy</a> | 
+        <a href="https://go.microsoft.com/fwlink/?LinkID=246338">Terms of Use</a> | 
+        <a href="https://go.microsoft.com/fwlink/?linkid=2196228%20">Trademarks</a> | 
+        &copy; <span id="current-year">2025</span> Microsoft
+    </div>
+  </footer>
+
+  <script>
+    // Collapsible Box Logic
+    const collapsibles = document.querySelectorAll(".collapsible");
+    collapsibles.forEach(btn => {
+      btn.addEventListener("click", function () {
+        this.classList.toggle("active");
+        const content = this.nextElementSibling;
+        if (content.style.maxHeight) {
+          content.style.maxHeight = null;
+        } else {
+          content.style.maxHeight = content.scrollHeight + "px";
+        }
+      });
+    });
+
+    // Set current year in footer
+    document.getElementById('current-year').textContent = new Date().getFullYear();
+  </script>
+
+</body>
+
+</html>
