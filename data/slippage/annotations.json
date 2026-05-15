@@ -1,0 +1,462 @@
+{
+  "93008_spacing.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option b violates the concept of spacing",
+    "violation": "b"
+  },
+  "76065_spacing.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option d violates the concept of spacing",
+    "violation": "d"
+  },
+  "45391_spacing.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option c violates the concept of spacing",
+    "violation": "c"
+  },
+  "82519_spacing.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option e violates the concept of spacing",
+    "violation": "e"
+  },
+  "69976_spacing.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option d violates the concept of spacing",
+    "violation": "d"
+  },
+  "04447_spacing.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option d violates the concept of spacing",
+    "violation": "d"
+  },
+  "74499_spacing.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option b violates the concept of spacing",
+    "violation": "b"
+  },
+  "36237_spacing.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option e violates the concept of spacing",
+    "violation": "e"
+  },
+  "87122_spacing.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option b violates the concept of spacing",
+    "violation": "b"
+  },
+  "03990_spacing.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option d violates the concept of spacing",
+    "violation": "d"
+  },
+  "82843_alignment.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option d violates the concept of alignment",
+    "violation": "d"
+  },
+  "49181_alignment.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option c violates the concept of alignment",
+    "violation": "c"
+  },
+  "69635_alignment.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option b violates the concept of alignment",
+    "violation": "b"
+  },
+  "09674_alignment.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option b violates the concept of alignment",
+    "violation": "b"
+  },
+  "85874_alignment.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option c violates the concept of alignment",
+    "violation": "c"
+  },
+  "04542_alignment.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option d violates the concept of alignment",
+    "violation": "d"
+  },
+  "95956_alignment.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option e violates the concept of alignment",
+    "violation": "e"
+  },
+  "86241_alignment.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option b violates the concept of alignment",
+    "violation": "b"
+  },
+  "60604_alignment.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option c violates the concept of alignment",
+    "violation": "c"
+  },
+  "56343_alignment.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option e violates the concept of alignment",
+    "violation": "e"
+  },
+  "45247_number.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option e violates the concept of number",
+    "violation": "e"
+  },
+  "95343_number.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option e violates the concept of number",
+    "violation": "e"
+  },
+  "79521_number.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option c violates the concept of number",
+    "violation": "c"
+  },
+  "10243_number.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option c violates the concept of number",
+    "violation": "c"
+  },
+  "17672_number.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option b violates the concept of number",
+    "violation": "b"
+  },
+  "02514_number.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option e violates the concept of number",
+    "violation": "e"
+  },
+  "12121_number.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option e violates the concept of number",
+    "violation": "e"
+  },
+  "54587_number.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option b violates the concept of number",
+    "violation": "b"
+  },
+  "15429_number.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option d violates the concept of number",
+    "violation": "d"
+  },
+  "02178_number.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option e violates the concept of number",
+    "violation": "e"
+  },
+  "19621_enclosure.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option b violates the concept of enclosure",
+    "violation": "b"
+  },
+  "89253_enclosure.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option b violates the concept of enclosure",
+    "violation": "b"
+  },
+  "85684_enclosure.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option c violates the concept of enclosure",
+    "violation": "c"
+  },
+  "07783_enclosure.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option e violates the concept of enclosure",
+    "violation": "e"
+  },
+  "90726_enclosure.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option c violates the concept of enclosure",
+    "violation": "c"
+  },
+  "00699_enclosure.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option e violates the concept of enclosure",
+    "violation": "e"
+  },
+  "15571_enclosure.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option b violates the concept of enclosure",
+    "violation": "b"
+  },
+  "09929_enclosure.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option b violates the concept of enclosure",
+    "violation": "b"
+  },
+  "08799_enclosure.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option d violates the concept of enclosure",
+    "violation": "d"
+  },
+  "69634_enclosure.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option e violates the concept of enclosure",
+    "violation": "e"
+  },
+  "91987_symmetry.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option d violates the concept of symmetry",
+    "violation": "d"
+  },
+  "92089_symmetry.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option e violates the concept of symmetry",
+    "violation": "e"
+  },
+  "92624_symmetry.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option d violates the concept of symmetry",
+    "violation": "d"
+  },
+  "72855_symmetry.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option c violates the concept of symmetry",
+    "violation": "c"
+  },
+  "50214_symmetry.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option c violates the concept of symmetry",
+    "violation": "c"
+  },
+  "64900_symmetry.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option b violates the concept of symmetry",
+    "violation": "b"
+  },
+  "84837_symmetry.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option c violates the concept of symmetry",
+    "violation": "c"
+  },
+  "48949_symmetry.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option d violates the concept of symmetry",
+    "violation": "d"
+  },
+  "66602_symmetry.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option b violates the concept of symmetry",
+    "violation": "b"
+  },
+  "77500_symmetry.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option d violates the concept of symmetry",
+    "violation": "d"
+  },
+  "85574_word_symmetry.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. The visual concept is applied to the figure as a whole and not to the parts of the figure. Reason step by step for answering.",
+    "concept": "Figure in option c violates the concept of word_symmetry",
+    "violation": "c",
+    "answer": "RHRM"
+  },
+  "68693_word_symmetry.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. The visual concept is applied to the figure as a whole and not to the parts of the figure. Reason step by step for answering.",
+    "concept": "Figure in option b violates the concept of word_symmetry",
+    "violation": "b",
+    "answer": "AIUQVXC"
+  },
+  "57600_word_symmetry.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. The visual concept is applied to the figure as a whole and not to the parts of the figure. Reason step by step for answering.",
+    "concept": "Figure in option d violates the concept of word_symmetry",
+    "violation": "d",
+    "answer": "LMQUP"
+  },
+  "75686_word_symmetry.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. The visual concept is applied to the figure as a whole and not to the parts of the figure. Reason step by step for answering.",
+    "concept": "Figure in option e violates the concept of word_symmetry",
+    "violation": "e",
+    "answer": "GWZPDC"
+  },
+  "45809_word_symmetry.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. The visual concept is applied to the figure as a whole and not to the parts of the figure. Reason step by step for answering.",
+    "concept": "Figure in option e violates the concept of word_symmetry",
+    "violation": "e",
+    "answer": "EVUVE"
+  },
+  "52146_word_symmetry.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. The visual concept is applied to the figure as a whole and not to the parts of the figure. Reason step by step for answering.",
+    "concept": "Figure in option e violates the concept of word_symmetry",
+    "violation": "e",
+    "answer": "YKKJKC"
+  },
+  "95952_word_symmetry.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. The visual concept is applied to the figure as a whole and not to the parts of the figure. Reason step by step for answering.",
+    "concept": "Figure in option c violates the concept of word_symmetry",
+    "violation": "c",
+    "answer": "ERNJYOU"
+  },
+  "69167_word_symmetry.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. The visual concept is applied to the figure as a whole and not to the parts of the figure. Reason step by step for answering.",
+    "concept": "Figure in option c violates the concept of word_symmetry",
+    "violation": "c",
+    "answer": "JUWIDJ"
+  },
+  "05887_word_symmetry.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. The visual concept is applied to the figure as a whole and not to the parts of the figure. Reason step by step for answering.",
+    "concept": "Figure in option b violates the concept of word_symmetry",
+    "violation": "b",
+    "answer": "BUJJO"
+  },
+  "88265_word_symmetry.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. The visual concept is applied to the figure as a whole and not to the parts of the figure. Reason step by step for answering.",
+    "concept": "Figure in option c violates the concept of word_symmetry",
+    "violation": "c",
+    "answer": "NDFDUA"
+  },
+  "80065_hollowness.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option c violates the concept of hollowness",
+    "violation": "c"
+  },
+  "04426_hollowness.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option c violates the concept of hollowness",
+    "violation": "c"
+  },
+  "20236_hollowness.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option d violates the concept of hollowness",
+    "violation": "d"
+  },
+  "03425_hollowness.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option c violates the concept of hollowness",
+    "violation": "c"
+  },
+  "87734_hollowness.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option b violates the concept of hollowness",
+    "violation": "b"
+  },
+  "39531_hollowness.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option c violates the concept of hollowness",
+    "violation": "c"
+  },
+  "93368_hollowness.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option e violates the concept of hollowness",
+    "violation": "e"
+  },
+  "26952_hollowness.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option d violates the concept of hollowness",
+    "violation": "d"
+  },
+  "44256_hollowness.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option b violates the concept of hollowness",
+    "violation": "b"
+  },
+  "93377_hollowness.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option e violates the concept of hollowness",
+    "violation": "e"
+  },
+  "39721_topology.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option d violates the concept of topology",
+    "violation": "d"
+  },
+  "25961_topology.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option e violates the concept of topology",
+    "violation": "e"
+  },
+  "19916_topology.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option c violates the concept of topology",
+    "violation": "c"
+  },
+  "48908_topology.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option e violates the concept of topology",
+    "violation": "e"
+  },
+  "95498_topology.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option e violates the concept of topology",
+    "violation": "e"
+  },
+  "16644_topology.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option e violates the concept of topology",
+    "violation": "e"
+  },
+  "79370_topology.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option d violates the concept of topology",
+    "violation": "d"
+  },
+  "92621_topology.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option d violates the concept of topology",
+    "violation": "d"
+  },
+  "80470_topology.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option c violates the concept of topology",
+    "violation": "c"
+  },
+  "25058_topology.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option b violates the concept of topology",
+    "violation": "b"
+  },
+  "20475_border.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option e violates the concept of border",
+    "violation": "e"
+  },
+  "38493_border.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option b violates the concept of border",
+    "violation": "b"
+  },
+  "47432_border.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option b violates the concept of border",
+    "violation": "b"
+  },
+  "10570_border.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option e violates the concept of border",
+    "violation": "e"
+  },
+  "63316_border.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option b violates the concept of border",
+    "violation": "b"
+  },
+  "73413_border.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option c violates the concept of border",
+    "violation": "c"
+  },
+  "32304_border.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option e violates the concept of border",
+    "violation": "e"
+  },
+  "56229_border.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option d violates the concept of border",
+    "violation": "d"
+  },
+  "29573_border.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option d violates the concept of border",
+    "violation": "d"
+  },
+  "52129_border.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+    "concept": "Figure in option d violates the concept of border",
+    "violation": "d"
+  }
+}

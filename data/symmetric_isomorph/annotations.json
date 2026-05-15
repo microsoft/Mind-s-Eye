@@ -1,0 +1,502 @@
+{
+    "37416724.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "a",
+        "answer": "lacks symmetry"
+    },
+    "46112545.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "96969155.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "d",
+        "answer": "lacks symmetry"
+    },
+    "27978819.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "a",
+        "answer": "lacks symmetry"
+    },
+    "04223253.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "c",
+        "answer": "lacks symmetry"
+    },
+    "42415415.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "d",
+        "answer": "lacks symmetry"
+    },
+    "52341389.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "d",
+        "answer": "lacks symmetry"
+    },
+    "83285691.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "30756220.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "c",
+        "answer": "lacks symmetry"
+    },
+    "83670241.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "35680442.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "76870146.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "59929378.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "c",
+        "answer": "lacks symmetry"
+    },
+    "09690295.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "06296201.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "a",
+        "answer": "lacks symmetry"
+    },
+    "93806868.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "c",
+        "answer": "lacks symmetry"
+    },
+    "48564679.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "c",
+        "answer": "lacks symmetry"
+    },
+    "07053457.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "a",
+        "answer": "lacks symmetry"
+    },
+    "08589944.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "d",
+        "answer": "lacks symmetry"
+    },
+    "13534655.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "83003354.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "a",
+        "answer": "lacks symmetry"
+    },
+    "46184992.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "a",
+        "answer": "lacks symmetry"
+    },
+    "25579415.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "c",
+        "answer": "lacks symmetry"
+    },
+    "75628900.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "05548851.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "c",
+        "answer": "lacks symmetry"
+    },
+    "54722698.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "c",
+        "answer": "lacks symmetry"
+    },
+    "38406665.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "33555439.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "d",
+        "answer": "lacks symmetry"
+    },
+    "07501102.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "99688143.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "c",
+        "answer": "lacks symmetry"
+    },
+    "77754781.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "37314530.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "d",
+        "answer": "lacks symmetry"
+    },
+    "92603029.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "d",
+        "answer": "lacks symmetry"
+    },
+    "86508637.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "a",
+        "answer": "lacks symmetry"
+    },
+    "37213865.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "a",
+        "answer": "lacks symmetry"
+    },
+    "89554393.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "c",
+        "answer": "lacks symmetry"
+    },
+    "73334333.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "95527636.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "c",
+        "answer": "lacks symmetry"
+    },
+    "45587716.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "a",
+        "answer": "lacks symmetry"
+    },
+    "34722820.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "d",
+        "answer": "lacks symmetry"
+    },
+    "26634163.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "d",
+        "answer": "lacks symmetry"
+    },
+    "30371837.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "c",
+        "answer": "lacks symmetry"
+    },
+    "52407784.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "89940539.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "d",
+        "answer": "lacks symmetry"
+    },
+    "56659398.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "09610556.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "a",
+        "answer": "lacks symmetry"
+    },
+    "16655355.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "d",
+        "answer": "lacks symmetry"
+    },
+    "16451046.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "d",
+        "answer": "lacks symmetry"
+    },
+    "78232983.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "d",
+        "answer": "lacks symmetry"
+    },
+    "77223306.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "a",
+        "answer": "lacks symmetry"
+    },
+    "90827718.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "c",
+        "answer": "lacks symmetry"
+    },
+    "07778097.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "83390198.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "55770272.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "c",
+        "answer": "lacks symmetry"
+    },
+    "35784521.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "01662997.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "c",
+        "answer": "lacks symmetry"
+    },
+    "39382761.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "d",
+        "answer": "lacks symmetry"
+    },
+    "19098624.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "32690973.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "d",
+        "answer": "lacks symmetry"
+    },
+    "47128144.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "c",
+        "answer": "lacks symmetry"
+    },
+    "76580185.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "d",
+        "answer": "lacks symmetry"
+    },
+    "74654214.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "a",
+        "answer": "lacks symmetry"
+    },
+    "54601585.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "d",
+        "answer": "lacks symmetry"
+    },
+    "79032020.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "d",
+        "answer": "lacks symmetry"
+    },
+    "23248763.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "63531531.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "d",
+        "answer": "lacks symmetry"
+    },
+    "69392906.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "95085016.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "a",
+        "answer": "lacks symmetry"
+    },
+    "41272380.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "c",
+        "answer": "lacks symmetry"
+    },
+    "92745238.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "c",
+        "answer": "lacks symmetry"
+    },
+    "18718637.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "94787300.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "d",
+        "answer": "lacks symmetry"
+    },
+    "85544518.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "76031089.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "c",
+        "answer": "lacks symmetry"
+    },
+    "83615171.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "d",
+        "answer": "lacks symmetry"
+    },
+    "57967842.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "c",
+        "answer": "lacks symmetry"
+    },
+    "71978897.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "c",
+        "answer": "lacks symmetry"
+    },
+    "35785294.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "83572324.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "d",
+        "answer": "lacks symmetry"
+    },
+    "89847139.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "a",
+        "answer": "lacks symmetry"
+    },
+    "64413432.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "d",
+        "answer": "lacks symmetry"
+    },
+    "95431652.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "c",
+        "answer": "lacks symmetry"
+    },
+    "35971072.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "a",
+        "answer": "lacks symmetry"
+    },
+    "85625728.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "c",
+        "answer": "lacks symmetry"
+    },
+    "77749050.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "a",
+        "answer": "lacks symmetry"
+    },
+    "10857327.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "c",
+        "answer": "lacks symmetry"
+    },
+    "06102776.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "67899730.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "a",
+        "answer": "lacks symmetry"
+    },
+    "80054522.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "37548214.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "d",
+        "answer": "lacks symmetry"
+    },
+    "73899756.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "83158935.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "47022960.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "78018204.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "57861706.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "98554743.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "a",
+        "answer": "lacks symmetry"
+    },
+    "50479303.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "51903613.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "b",
+        "answer": "lacks symmetry"
+    },
+    "76991507.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "a",
+        "answer": "lacks symmetry"
+    },
+    "94652170.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Reason step by step for answering.\n    ",
+        "asymmetric_label": "c",
+        "answer": "lacks symmetry"
+    }
+}

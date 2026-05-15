@@ -1,0 +1,502 @@
+{
+    "pair_00_contract_x_rotate_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(c)",
+        "answer": "The square hs the motion of contract_x and the pentagon has the motion of rotate"
+    },
+    "pair_01_pulsate_contract_y_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(b)",
+        "answer": "The pentagon hs the motion of pulsate and the square has the motion of contract_y"
+    },
+    "pair_02_stretch_x_bounce_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(c)",
+        "answer": "The square hs the motion of stretch_x and the triangle has the motion of bounce"
+    },
+    "pair_03_jump_mirror_y_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(b)",
+        "answer": "The pentagon hs the motion of jump and the diamond has the motion of mirror_y"
+    },
+    "pair_04_flip_mirror_y_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(b)",
+        "answer": "The hexagon hs the motion of flip and the square has the motion of mirror_y"
+    },
+    "pair_05_pulsate_mirror_x_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(b)",
+        "answer": "The diamond hs the motion of pulsate and the triangle has the motion of mirror_x"
+    },
+    "pair_06_mirror_x_bounce_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(c)",
+        "answer": "The triangle hs the motion of mirror_x and the hexagon has the motion of bounce"
+    },
+    "pair_07_rotate_pulsate_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(b)",
+        "answer": "The diamond hs the motion of rotate and the triangle has the motion of pulsate"
+    },
+    "pair_08_compress_and_stretch_rotate_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(c)",
+        "answer": "The pentagon hs the motion of compress_and_stretch and the diamond has the motion of rotate"
+    },
+    "pair_09_contract_x_stretch_x_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(b)",
+        "answer": "The triangle hs the motion of contract_x and the diamond has the motion of stretch_x"
+    },
+    "pair_10_flip_bounce_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(b)",
+        "answer": "The diamond hs the motion of flip and the hexagon has the motion of bounce"
+    },
+    "pair_11_bounce_contract_y_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(c)",
+        "answer": "The pentagon hs the motion of bounce and the diamond has the motion of contract_y"
+    },
+    "pair_12_bounce_rotate_back_and_forth_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(c)",
+        "answer": "The square hs the motion of bounce and the triangle has the motion of rotate_back_and_forth"
+    },
+    "pair_13_stretch_x_jump_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(b)",
+        "answer": "The hexagon hs the motion of stretch_x and the pentagon has the motion of jump"
+    },
+    "pair_14_scale_jump_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(a)",
+        "answer": "The square hs the motion of scale and the diamond has the motion of jump"
+    },
+    "pair_15_contract_x_spin_and_bounce_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(b)",
+        "answer": "The pentagon hs the motion of contract_x and the square has the motion of spin_and_bounce"
+    },
+    "pair_16_rotate_back_and_forth_contract_x_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(b)",
+        "answer": "The square hs the motion of rotate_back_and_forth and the diamond has the motion of contract_x"
+    },
+    "pair_17_contract_y_compress_and_stretch_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(a)",
+        "answer": "The hexagon hs the motion of contract_y and the square has the motion of compress_and_stretch"
+    },
+    "pair_18_contract_y_pulsate_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(d)",
+        "answer": "The diamond hs the motion of contract_y and the square has the motion of pulsate"
+    },
+    "pair_19_contract_x_mirror_x_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(d)",
+        "answer": "The triangle hs the motion of contract_x and the pentagon has the motion of mirror_x"
+    },
+    "pair_20_mirror_x_jump_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(c)",
+        "answer": "The square hs the motion of mirror_x and the pentagon has the motion of jump"
+    },
+    "pair_21_rotate_back_and_forth_mirror_y_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(a)",
+        "answer": "The square hs the motion of rotate_back_and_forth and the diamond has the motion of mirror_y"
+    },
+    "pair_22_pulsate_jump_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(d)",
+        "answer": "The square hs the motion of pulsate and the diamond has the motion of jump"
+    },
+    "pair_23_scale_stretch_x_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(c)",
+        "answer": "The triangle hs the motion of scale and the pentagon has the motion of stretch_x"
+    },
+    "pair_24_mirror_x_flip_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(b)",
+        "answer": "The diamond hs the motion of mirror_x and the hexagon has the motion of flip"
+    },
+    "pair_25_jump_stretch_y_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(b)",
+        "answer": "The pentagon hs the motion of jump and the hexagon has the motion of stretch_y"
+    },
+    "pair_26_mirror_x_wiggle_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(c)",
+        "answer": "The hexagon hs the motion of mirror_x and the pentagon has the motion of wiggle"
+    },
+    "pair_27_wiggle_pulsate_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(b)",
+        "answer": "The triangle hs the motion of wiggle and the square has the motion of pulsate"
+    },
+    "pair_28_spin_and_bounce_contract_x_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(a)",
+        "answer": "The hexagon hs the motion of spin_and_bounce and the pentagon has the motion of contract_x"
+    },
+    "pair_29_tilt_rotate_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(a)",
+        "answer": "The triangle hs the motion of tilt and the hexagon has the motion of rotate"
+    },
+    "pair_30_jump_swirl_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(d)",
+        "answer": "The hexagon hs the motion of jump and the pentagon has the motion of swirl"
+    },
+    "pair_31_bounce_jump_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(d)",
+        "answer": "The square hs the motion of bounce and the triangle has the motion of jump"
+    },
+    "pair_32_mirror_y_rotate_back_and_forth_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(a)",
+        "answer": "The diamond hs the motion of mirror_y and the triangle has the motion of rotate_back_and_forth"
+    },
+    "pair_33_compress_and_stretch_stretch_y_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(a)",
+        "answer": "The triangle hs the motion of compress_and_stretch and the diamond has the motion of stretch_y"
+    },
+    "pair_34_rotate_bounce_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(b)",
+        "answer": "The square hs the motion of rotate and the hexagon has the motion of bounce"
+    },
+    "pair_35_swirl_compress_and_stretch_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(d)",
+        "answer": "The square hs the motion of swirl and the hexagon has the motion of compress_and_stretch"
+    },
+    "pair_36_contract_y_flip_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(c)",
+        "answer": "The triangle hs the motion of contract_y and the square has the motion of flip"
+    },
+    "pair_37_pulsate_spin_and_bounce_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(b)",
+        "answer": "The hexagon hs the motion of pulsate and the pentagon has the motion of spin_and_bounce"
+    },
+    "pair_38_mirror_x_rotate_back_and_forth_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(d)",
+        "answer": "The triangle hs the motion of mirror_x and the pentagon has the motion of rotate_back_and_forth"
+    },
+    "pair_39_flip_compress_and_stretch_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(b)",
+        "answer": "The hexagon hs the motion of flip and the pentagon has the motion of compress_and_stretch"
+    },
+    "pair_40_mirror_x_jump_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(c)",
+        "answer": "The square hs the motion of mirror_x and the diamond has the motion of jump"
+    },
+    "pair_41_tilt_pulsate_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(a)",
+        "answer": "The triangle hs the motion of tilt and the hexagon has the motion of pulsate"
+    },
+    "pair_42_mirror_x_tilt_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(a)",
+        "answer": "The triangle hs the motion of mirror_x and the diamond has the motion of tilt"
+    },
+    "pair_43_jump_bounce_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(d)",
+        "answer": "The diamond hs the motion of jump and the triangle has the motion of bounce"
+    },
+    "pair_44_jump_mirror_x_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(a)",
+        "answer": "The hexagon hs the motion of jump and the diamond has the motion of mirror_x"
+    },
+    "pair_45_swirl_scale_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(c)",
+        "answer": "The square hs the motion of swirl and the diamond has the motion of scale"
+    },
+    "pair_46_contract_x_mirror_x_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(b)",
+        "answer": "The square hs the motion of contract_x and the diamond has the motion of mirror_x"
+    },
+    "pair_47_compress_and_stretch_stretch_x_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(b)",
+        "answer": "The square hs the motion of compress_and_stretch and the triangle has the motion of stretch_x"
+    },
+    "pair_48_compress_and_stretch_rotate_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(d)",
+        "answer": "The triangle hs the motion of compress_and_stretch and the pentagon has the motion of rotate"
+    },
+    "pair_49_scale_contract_x_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(b)",
+        "answer": "The pentagon hs the motion of scale and the hexagon has the motion of contract_x"
+    },
+    "pair_50_stretch_x_contract_y_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(b)",
+        "answer": "The diamond hs the motion of stretch_x and the hexagon has the motion of contract_y"
+    },
+    "pair_51_mirror_x_stretch_x_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(a)",
+        "answer": "The diamond hs the motion of mirror_x and the hexagon has the motion of stretch_x"
+    },
+    "pair_52_flip_compress_and_stretch_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(d)",
+        "answer": "The pentagon hs the motion of flip and the diamond has the motion of compress_and_stretch"
+    },
+    "pair_53_mirror_x_mirror_y_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(a)",
+        "answer": "The diamond hs the motion of mirror_x and the pentagon has the motion of mirror_y"
+    },
+    "pair_54_jump_stretch_y_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(a)",
+        "answer": "The triangle hs the motion of jump and the square has the motion of stretch_y"
+    },
+    "pair_55_mirror_y_contract_y_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(a)",
+        "answer": "The hexagon hs the motion of mirror_y and the triangle has the motion of contract_y"
+    },
+    "pair_56_tilt_flip_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(c)",
+        "answer": "The pentagon hs the motion of tilt and the diamond has the motion of flip"
+    },
+    "pair_57_stretch_x_rotate_back_and_forth_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(a)",
+        "answer": "The diamond hs the motion of stretch_x and the square has the motion of rotate_back_and_forth"
+    },
+    "pair_58_rotate_mirror_x_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(d)",
+        "answer": "The hexagon hs the motion of rotate and the diamond has the motion of mirror_x"
+    },
+    "pair_59_mirror_x_contract_x_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(d)",
+        "answer": "The square hs the motion of mirror_x and the hexagon has the motion of contract_x"
+    },
+    "pair_60_flip_stretch_y_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(c)",
+        "answer": "The square hs the motion of flip and the pentagon has the motion of stretch_y"
+    },
+    "pair_61_scale_rotate_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(d)",
+        "answer": "The pentagon hs the motion of scale and the triangle has the motion of rotate"
+    },
+    "pair_62_contract_x_tilt_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(d)",
+        "answer": "The square hs the motion of contract_x and the pentagon has the motion of tilt"
+    },
+    "pair_63_bounce_mirror_x_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(c)",
+        "answer": "The diamond hs the motion of bounce and the triangle has the motion of mirror_x"
+    },
+    "pair_64_flip_compress_and_stretch_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(b)",
+        "answer": "The square hs the motion of flip and the diamond has the motion of compress_and_stretch"
+    },
+    "pair_65_contract_x_mirror_x_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(d)",
+        "answer": "The pentagon hs the motion of contract_x and the diamond has the motion of mirror_x"
+    },
+    "pair_66_flip_contract_x_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(d)",
+        "answer": "The square hs the motion of flip and the hexagon has the motion of contract_x"
+    },
+    "pair_67_jump_spin_and_bounce_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(b)",
+        "answer": "The square hs the motion of jump and the diamond has the motion of spin_and_bounce"
+    },
+    "pair_68_flip_rotate_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(a)",
+        "answer": "The diamond hs the motion of flip and the triangle has the motion of rotate"
+    },
+    "pair_69_wiggle_bounce_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(b)",
+        "answer": "The triangle hs the motion of wiggle and the hexagon has the motion of bounce"
+    },
+    "pair_70_mirror_x_wiggle_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(b)",
+        "answer": "The diamond hs the motion of mirror_x and the triangle has the motion of wiggle"
+    },
+    "pair_71_scale_jump_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(d)",
+        "answer": "The square hs the motion of scale and the triangle has the motion of jump"
+    },
+    "pair_72_rotate_rotate_back_and_forth_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(a)",
+        "answer": "The triangle hs the motion of rotate and the hexagon has the motion of rotate_back_and_forth"
+    },
+    "pair_73_rotate_back_and_forth_scale_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(a)",
+        "answer": "The square hs the motion of rotate_back_and_forth and the pentagon has the motion of scale"
+    },
+    "pair_74_scale_compress_and_stretch_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(a)",
+        "answer": "The diamond hs the motion of scale and the triangle has the motion of compress_and_stretch"
+    },
+    "pair_75_scale_swirl_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(c)",
+        "answer": "The diamond hs the motion of scale and the square has the motion of swirl"
+    },
+    "pair_76_stretch_y_mirror_y_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(c)",
+        "answer": "The pentagon hs the motion of stretch_y and the triangle has the motion of mirror_y"
+    },
+    "pair_77_contract_y_jump_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(b)",
+        "answer": "The hexagon hs the motion of contract_y and the diamond has the motion of jump"
+    },
+    "pair_78_stretch_x_wiggle_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(d)",
+        "answer": "The triangle hs the motion of stretch_x and the diamond has the motion of wiggle"
+    },
+    "pair_79_contract_y_flip_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(a)",
+        "answer": "The hexagon hs the motion of contract_y and the pentagon has the motion of flip"
+    },
+    "pair_80_rotate_back_and_forth_spin_and_bounce_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(d)",
+        "answer": "The triangle hs the motion of rotate_back_and_forth and the hexagon has the motion of spin_and_bounce"
+    },
+    "pair_81_contract_x_pulsate_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(b)",
+        "answer": "The hexagon hs the motion of contract_x and the triangle has the motion of pulsate"
+    },
+    "pair_82_tilt_rotate_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(a)",
+        "answer": "The square hs the motion of tilt and the triangle has the motion of rotate"
+    },
+    "pair_83_mirror_y_bounce_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(a)",
+        "answer": "The diamond hs the motion of mirror_y and the pentagon has the motion of bounce"
+    },
+    "pair_84_tilt_swirl_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(c)",
+        "answer": "The pentagon hs the motion of tilt and the triangle has the motion of swirl"
+    },
+    "pair_85_spin_and_bounce_mirror_x_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(c)",
+        "answer": "The hexagon hs the motion of spin_and_bounce and the pentagon has the motion of mirror_x"
+    },
+    "pair_86_contract_y_swirl_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(a)",
+        "answer": "The triangle hs the motion of contract_y and the pentagon has the motion of swirl"
+    },
+    "pair_87_pulsate_compress_and_stretch_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(c)",
+        "answer": "The diamond hs the motion of pulsate and the triangle has the motion of compress_and_stretch"
+    },
+    "pair_88_contract_y_contract_x_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(d)",
+        "answer": "The triangle hs the motion of contract_y and the pentagon has the motion of contract_x"
+    },
+    "pair_89_rotate_mirror_x_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(d)",
+        "answer": "The square hs the motion of rotate and the hexagon has the motion of mirror_x"
+    },
+    "pair_90_spin_and_bounce_contract_y_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(b)",
+        "answer": "The triangle hs the motion of spin_and_bounce and the pentagon has the motion of contract_y"
+    },
+    "pair_91_wiggle_flip_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(d)",
+        "answer": "The square hs the motion of wiggle and the diamond has the motion of flip"
+    },
+    "pair_92_swirl_contract_y_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(a)",
+        "answer": "The square hs the motion of swirl and the pentagon has the motion of contract_y"
+    },
+    "pair_93_wiggle_rotate_back_and_forth_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(c)",
+        "answer": "The square hs the motion of wiggle and the hexagon has the motion of rotate_back_and_forth"
+    },
+    "pair_94_mirror_y_pulsate_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(b)",
+        "answer": "The diamond hs the motion of mirror_y and the triangle has the motion of pulsate"
+    },
+    "pair_95_compress_and_stretch_jump_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(a)",
+        "answer": "The hexagon hs the motion of compress_and_stretch and the pentagon has the motion of jump"
+    },
+    "pair_96_rotate_back_and_forth_wiggle_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(c)",
+        "answer": "The square hs the motion of rotate_back_and_forth and the triangle has the motion of wiggle"
+    },
+    "pair_97_contract_y_rotate_back_and_forth_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(d)",
+        "answer": "The square hs the motion of contract_y and the hexagon has the motion of rotate_back_and_forth"
+    },
+    "pair_98_wiggle_mirror_x_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(d)",
+        "answer": "The hexagon hs the motion of wiggle and the diamond has the motion of mirror_x"
+    },
+    "pair_99_spin_and_bounce_swirl_grid.png": {
+        "question": "Follow the transformation of the shapes in the top row, starting from t=0.0 uptp t=0.75. Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the fifth image at t = 1.0. Reason step by step how are the shapes transforming for answering.\n    ",
+        "fifth_label": "(c)",
+        "answer": "The square hs the motion of spin_and_bounce and the pentagon has the motion of swirl"
+    }
+}
